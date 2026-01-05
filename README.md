@@ -1,0 +1,2 @@
+# Safe-Interactive-Reinforcement-Learning-with-Human-Interventions
+A reinforcement learning system that learns optimal behavior in safety-critical environments through human oversight. A safety monitor intervenes when the agent attempts unsafe actions, and the agent learns from these signals to build an internal safety shield. Balances task performance with safety constraints, reducing interventions over time.
